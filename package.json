@@ -1,0 +1,14 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "Diba ",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Ali5hahriar",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
